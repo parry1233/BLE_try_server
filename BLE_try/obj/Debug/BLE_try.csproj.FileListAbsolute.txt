@@ -1,0 +1,11 @@
+C:\Users\USER\source\repos\BLE_try\BLE_try\bin\Debug\BLE_try.exe.config
+C:\Users\USER\source\repos\BLE_try\BLE_try\bin\Debug\BLE_try.exe
+C:\Users\USER\source\repos\BLE_try\BLE_try\bin\Debug\BLE_try.pdb
+C:\Users\USER\source\repos\BLE_try\BLE_try\obj\Debug\BLE_try.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\BLE_try\BLE_try\obj\Debug\BLE_try.Form1.resources
+C:\Users\USER\source\repos\BLE_try\BLE_try\obj\Debug\BLE_try.Properties.Resources.resources
+C:\Users\USER\source\repos\BLE_try\BLE_try\obj\Debug\BLE_try.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\BLE_try\BLE_try\obj\Debug\BLE_try.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\BLE_try\BLE_try\obj\Debug\BLE_try.exe
+C:\Users\USER\source\repos\BLE_try\BLE_try\obj\Debug\BLE_try.pdb
+C:\Users\USER\source\repos\BLE_try\BLE_try\obj\Debug\BLE_try.csproj.CopyComplete
